@@ -10,7 +10,12 @@
 - 📫 How to reach me **hprokriti670@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/prokriti-hasan-b3545527a/?fbclid=IwAR1Y1tpFw2rJLEnSP6ywNYwtUEawDhoouog1KYr3O76V7hGuqv4SIFiKTWg"></a>
+<a href="hprokriti670@gmail.com"></a>
+<a href="https://github.com/Prokriti-670?fbclid=IwAR04Owei5dDL1VEJyTHu0tiy_f1GW1DHQ-ywwnhVvV6GSpeLEpfNffLu4YI"></a>
 <p align="left">
+ <h3 align="left">My Portfolio:</h3> 
+ <a href="https://prokriti-670.github.io/Prokriti-Hasan.git.io/?fbclid=IwAR1kb3Wzt6WaNrhT1tQW2Bsb0VjN_ZJYzKhhaUPrZP1ZPb4dTZU__vCPGyM"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
