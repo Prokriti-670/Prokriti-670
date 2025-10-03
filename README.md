@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prokriti Hasan Rodushi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<h3 align="center">Interested in software developing</h3>
+<h3 align="center">Interested in Machine Learning, Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prokriti670&label=Profile%20views&color=0e75b6&style=flat" alt="prokriti670" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **C, python, html, css**
+- 💬 Ask me about **C, python, R, Java**
 
 - 📫 How to reach me **hprokriti670@gmail.com**
 
